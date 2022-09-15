@@ -190,4 +190,9 @@ body {
   .card {
     flex-direction: column;
   }
+  #histories{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3px;
+  }
 }
